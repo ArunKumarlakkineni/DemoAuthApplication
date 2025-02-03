@@ -18,7 +18,7 @@ Make sure you have the following installed:
 - Maven
 - Docker (for containerized deployment)
 
-### Clone the Repository
+### Steps to Run the Application
 ```sh
 git clone https://github.com/your-username/DemoApplication.git
 cd DemoApplication
