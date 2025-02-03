@@ -1,7 +1,7 @@
 # DemoAuthApplication 🚀
 
 ## Overview
-DemoApplication is a **Spring Boot** project with user authentication, admin-only access, IP tracking. It supports **Basic Authentication** and includes **JUnit tests, Swagger documentation, and Dockerization**.
+DemoAuthApplication is a **Spring Boot** project with user authentication, admin-only access, IP tracking. It supports **Basic Authentication** and includes **JUnit tests, Swagger documentation, and Dockerization**.
 
 ## Features
 ✅ User Registration & Authentication  
